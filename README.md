@@ -1,5 +1,5 @@
 # GenAI_Autotestdesign
-This repository aims to streamline the software testing process by leveraging AI to create test cases from detailed requirements, reducing manual effort and improving testing efficiency.
+
 This is a Gen AI-based solution that automates the extraction of testing requirements from JIRA, generates test cases based on those requirements, and loads the generated test cases into TestRail, a test automation tool. The solution aims to streamline the software testing process by leveraging AI to create test cases from detailed requirements, reducing manual effort and improving testing efficiency.
 
 Use Case Description
